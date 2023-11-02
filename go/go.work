@@ -4,4 +4,9 @@ use (
   ./hello-world
   ./lasagna
   ./weather-forecast
+  ./cars-assemble
+  ./annalyns-infiltration
+  ./welcome-to-tech-palace
+  ./party-robot
+  ./vehicle-purchase
 )
