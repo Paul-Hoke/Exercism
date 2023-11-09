@@ -2,11 +2,18 @@ go 1.18
 
 use (
   ./hello-world
-  ./lasagna
   ./weather-forecast
   ./cars-assemble
   ./annalyns-infiltration
   ./welcome-to-tech-palace
   ./party-robot
   ./vehicle-purchase
+  ./card-tricks
+  ./need-for-speed
+  ./blackjack
+  ./animal-magic
+  ./bird-watcher
+  ./lasagna-master
+  ./interest-is-interesting
+  ./gross-store
 )

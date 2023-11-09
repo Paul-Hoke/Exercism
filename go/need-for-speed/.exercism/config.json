@@ -3,16 +3,16 @@
     "tehsphinx"
   ],
   "contributors": [
-    "ekingery",
-    "andrerfcsantos",
-    "bobtfish"
+    "oanaOM",
+    "eklatzer",
+    "andrerfcsantos"
   ],
   "files": {
     "solution": [
-      "lasagna.go"
+      "need_for_speed.go"
     ],
     "test": [
-      "lasagna_test.go"
+      "need_for_speed_test.go"
     ],
     "exemplar": [
       ".meta/exemplar.go"
@@ -22,9 +22,9 @@
     ]
   },
   "forked_from": [
-    "csharp/lucians-luscious-lasagna"
+    "csharp/need-for-speed"
   ],
-  "blurb": "Learn about packages, functions, and variables by helping Gopher cook lasagna.",
+  "blurb": "Learn about structs by racing remote controlled cars.",
   "custom": {
     "taskIdsEnabled": true
   }
