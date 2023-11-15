@@ -16,4 +16,7 @@ use (
   ./lasagna-master
   ./interest-is-interesting
   ./gross-store
+  ./booking-up-for-beauty
+  ./chessboard
+  ./election-day
 )
