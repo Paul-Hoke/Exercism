@@ -22,4 +22,8 @@ use (
   ./elons-toys
   ./logs-logs-logs
   ./airport-robot
+  ./parsing-log-files
+  ./census
+  ./meteorology
+  ./sorting-room
 )
