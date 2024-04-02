@@ -19,6 +19,13 @@ use (
   ./booking-up-for-beauty
   ./chessboard
   ./election-day
+  ./elons-toys
+  ./logs-logs-logs
+  ./airport-robot
+  ./parsing-log-files
+  ./census
+  ./meteorology
+  ./sorting-room
   ./expenses
   ./strain
   ./resistor-color-trio
