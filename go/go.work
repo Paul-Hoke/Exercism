@@ -19,4 +19,7 @@ use (
   ./booking-up-for-beauty
   ./chessboard
   ./election-day
+  ./expenses
+  ./strain
+  ./resistor-color-trio
 )
